@@ -1,2 +1,3 @@
 Hello, Git!
 This is my Software Engineering Experiment 2.
+Version control helps us track changes.
