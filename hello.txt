@@ -1,4 +1,4 @@
 Hello, Git!
 This is my Software Engineering Experiment 2.
 Version control helps us track changes.
-This line was modified on the main branch.
+This line was resolved after merging both branches.
